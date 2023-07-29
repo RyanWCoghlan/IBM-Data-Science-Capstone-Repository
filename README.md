@@ -1,3 +1,3 @@
-# IBM-Data-Science-Capstone-Repository
+# Data Science Project Repository
 
-This Ryan Coghlans Repository for the IBM Data Science Capstone
+This Ryan Coghlans Project Repository
